@@ -21,32 +21,32 @@ https://sites.google.com/a/hstat.org/jazminn7822sep10/ .
 
 1. 1st PERIOD :
 
-   US History
+   _US History_
 
 2. 2nd PERIOD:
 
-   Gym
+   _Gym_
 
 3. 3rd PERIOD;
 
-   Software Engenerring
+   _Software Engenerring_
 
 4. 4th PERIOD:
 
-    Lunch
+    _Lunch_
 
 5. 5th PERIOD:
 
-   English
+   _English_
 
 6. 6th PERIOD:
 
-   Pre Calculus
+   _Pre Calculus_
 
 7. 7th PERIOD:
 
-   AP Biology
+   _AP Biology_
 
 8. 8th PERIOD:
 
-   Study Hall
+   _Study Hall_
