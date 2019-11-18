@@ -27,7 +27,7 @@ https://sites.google.com/a/hstat.org/jazminn7822sep10/ .
 
    _Gym_
 
-3. 3rd PERIOD;
+3. 3rd PERIOD:
 
    _Software Engenerring_
 
