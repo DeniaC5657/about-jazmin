@@ -9,8 +9,9 @@ I am a current junior at HSTAT.
 These are some websites I have created during the past few years:
 
 
-https://sites.google.com/a/hstat.org/jazminn7822sep09/ .
-https://sites.google.com/a/hstat.org/jazminn7822sep10/ .
+https://sites.google.com/a/hstat.org/jazminn7822sep09/.
+
+https://sites.google.com/a/hstat.org/jazminn7822sep10/. 
 
 
 
