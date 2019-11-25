@@ -11,7 +11,7 @@ These are some websites I have created during the past few years:
 
 https://sites.google.com/a/hstat.org/jazminn7822sep09/.
 
-https://sites.google.com/a/hstat.org/jazminn7822sep10/. 
+https://sites.google.com/a/hstat.org/jazminn7822sep10/.
 
 
 
@@ -51,3 +51,5 @@ https://sites.google.com/a/hstat.org/jazminn7822sep10/.
 8. 8th PERIOD:
 
    _Study Hall_
+
+_Reviewed By Denia_
